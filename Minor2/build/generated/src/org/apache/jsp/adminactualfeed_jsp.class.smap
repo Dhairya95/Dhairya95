@@ -1,0 +1,19 @@
+SMAP
+adminactualfeed_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminactualfeed.jsp
+adminactualfeed.jsp
+*L
+1,260:45
+261,2:305,3
+263,16:311
+278:327
+279:328,5
+280:333
+281,6:335
+286:341
+287,2:343
+288,45:345
+*E
