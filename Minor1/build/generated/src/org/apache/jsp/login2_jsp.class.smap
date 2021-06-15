@@ -1,0 +1,16 @@
+SMAP
+login2_jsp.java
+JSP
+*S JSP
+*F
++ 0 login2.jsp
+login2.jsp
++ 1 menu.jsp
+menu.jsp
+*L
+1,11:49
+1#1,39:59
+11#0,2:98
+13:100,3
+14,2:103
+*E

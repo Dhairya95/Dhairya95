@@ -1,0 +1,14 @@
+SMAP
+academic_jsp.java
+JSP
+*S JSP
+*F
++ 0 academic.jsp
+academic.jsp
++ 1 menu.jsp
+menu.jsp
+*L
+1,25:49
+1#1,39:74
+25#0,19:113
+*E
